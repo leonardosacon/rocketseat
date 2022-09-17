@@ -1,3 +1,9 @@
-## NLW eSports Rocketseat 
+# NLW eSports Rocketseat 
+
+Projeto construido no projeto Next Level Week da Rocketseat
 
 - Iniciando no foguete.
+
+## Tecnologias
+
+#HTML #CSS #GIT #GITHUB

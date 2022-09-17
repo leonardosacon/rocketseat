@@ -42,5 +42,5 @@ section p {
 }
 
 ul {
-    display: none;
+    display: flex;
 }

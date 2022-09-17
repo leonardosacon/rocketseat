@@ -16,8 +16,9 @@ body {
     background-size: cover;
 }
 
-main * {
-    border: 1px solid red;
+body * {
+    font-family: 'Inter', sans-serif;
+    line-height: 160%;
 }
 
 main {
@@ -26,4 +27,16 @@ main {
     margin: auto;
 }
 
+section {
+    color: white;
 
+}
+
+section h2 {
+    letter-spacing: -0.47px;
+}
+
+section p {
+    letter-spacing: -0.18px;
+    color: #A1A1AA;
+}

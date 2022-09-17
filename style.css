@@ -40,3 +40,7 @@ section p {
     letter-spacing: -0.18px;
     color: #A1A1AA;
 }
+
+ul {
+    display: none;
+}

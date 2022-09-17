@@ -92,3 +92,13 @@ section ul {
     border-radius: 50%;
     /* border: 1px solid #443E54; */
 }
+
+.link-list img {
+    width: 70px;
+    border-radius: 50%;
+}
+
+.channel-list img {
+    width: 70px;
+    border-radius: 50%;
+}

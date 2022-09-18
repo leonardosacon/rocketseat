@@ -155,3 +155,13 @@ main section:nth-child(3) {
         transform: translateY(0);
     }
 }
+
+.link-list li {
+    width: 50px;
+    
+    
+} 
+.link-list li a svg {
+    border: 1px solid #ddd;
+    border-radius: 50%;
+}

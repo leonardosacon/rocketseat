@@ -115,7 +115,7 @@ section ul li:hover {
 
 /* animation */
 header div {
-    animation: fromTop .7s 1s/*=delay*/ backwards; /* captura from e transform 0% */
+    animation: fromTop .7s 2s/*=delay*/ backwards; /* captura from e transform 0% */
 }
 
 main section {

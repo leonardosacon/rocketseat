@@ -157,11 +157,13 @@ main section:nth-child(3) {
 }
 
 .link-list li {
-    width: 50px;
-    
+    width: 30px;
+    display: grid;
+    gap: 24px;
     
 } 
 .link-list li a svg {
-    border: 1px solid #ddd;
+    border: 1px solid #8a8a8a;
     border-radius: 50%;
+    padding: 5px;
 }

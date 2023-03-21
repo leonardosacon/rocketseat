@@ -8,4 +8,4 @@ Projeto construido no projeto Next Level Week da Rocketseat
 
 #HTML #CSS #GIT #GITHUB
 
-# https://leonardosacon.github.io/rocketseat/
+https://leonardosacon.github.io/rocketseat/
